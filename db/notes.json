@@ -1,8 +1,1 @@
-{
-  "notes": [
-    {
-      "title": "Test Note",
-      "text": "Test note text"
-    }
-  ]
-}
+{"notes":[{"title":"Test Note","text":"Test note text"},{"title":"asdfasdfasdf","text":"asdfasdfasdf","_id":"fedd1e3f-b3c8-411c-845e-0cea1197c5e4"},{"title":"New note ","text":"test","_id":"f1592601-5803-43a6-8a8d-a218385c943b"},{"title":"Another note","text":"another test note","_id":"9fc4b6dc-1213-4c26-8fa5-15451db0e144"},{"title":"aaaaa","text":"asdfa","_id":"006dc5b8-61fc-4acc-9644-2fda6195b755"}]}
