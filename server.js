@@ -9,6 +9,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 
+// Use API and HTML routes
 app.use("/api", apiRoutes);
 app.use("/", htmlRoutes);
 
